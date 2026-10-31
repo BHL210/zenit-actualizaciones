@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "versions": [
+    {
+      "id": "v0.05",
+      "name": "Zenit v0.05",
+      "description": "Introducción de Zenit: pantalla dual corregida, logo y START animado.",
+      "url": "./patches/Zenit_v0.05.bps",
+      "sha256": "c12ed5356472a082a6619ba4102f52e9427551fcdd734b85428ec5891fea8134"
+    },
+    {
+      "id": "v0.06",
+      "name": "Zenit v0.06",
+      "description": "Pantalla de título renovada con la meseta y paisaje continuo.",
+      "url": "./patches/Zenit_v0.06.bps",
+      "sha256": "990f7ef719365f0b094da76733d20be159b85c0dfc42c4af736827cf03064c55"
+    },
+    {
+      "id": "v0.07",
+      "name": "Zenit v0.07",
+      "description": "Nuevo paisaje original, logotipo centrado y colores corregidos.",
+      "url": "./patches/Zenit_v0.07.bps",
+      "sha256": "96caf6e7dc8c9d71c00323a6cec67dac42293b5bdd4ba6141ff4ff7f83567ad9"
+    },
+    {
+      "id": "v0.08.1",
+      "name": "Zenit v0.08.1 · START blanco",
+      "description": "Corrección aislada del color de «Pulsa START». Probado: título, START y entrada al menú original de Oak.",
+      "url": "./patches/Zenit_v0.08.1.bps",
+      "sha256": "471ec7e6b1cf45bebae97b25509a74a65eb9a1871b633699b3daaf1c83f31740"
+    },
+    {
+      "id": "v0.09",
+      "name": "Zenit v0.09 · Oak directo",
+      "description": "START blanco y presentación corta de Oak: elimina el menú de tres opciones informativas y continúa con elección de género, confirmación y nombre. Probado en melonDS.",
+      "url": "./patches/Zenit_v0.09.bps",
+      "sha256": "511e93f7a619b103345f03a059cbb66fc347366a8ff68eb28425cd535efe5a01"
+    },
+    {
+      "id": "v0.10",
+      "name": "Zenit v0.10 · Nueva introducción de Oak",
+      "description": "Diálogos de Oak para el Proyecto Zenit: bienvenida, colaboración, elección de género, nombre y despedida. Inicio de partida verificado con melonDS.",
+      "url": "./patches/Zenit_v0.10.bps",
+      "sha256": "aff683e4bc4fcc79e62183b99011154d6cdab810cbe879ce8def9a894257f12b"
+    },
+    {
+      "id": "v0.11",
+      "name": "Zenit v0.11 · Sprites Hugo e Irene (prueba)",
+      "description": "Versión experimental: incorpora sprites de movimiento de Hugo e Irene (24 fotogramas cada uno); los sprites de combate y de selección aún son los originales. Pendiente de prueba en Zenit Play.",
+      "url": "./patches/Zenit_v0.11.bps",
+      "sha256": "e1e0dc1d99143c6c2c22b86576b447bfc903945d16f937473baa8753bf8840be"
+    },
+    {
+      "id": "v0.12",
+      "name": "Zenit v0.12 · Hugo e Irene (corrección de sprites)",
+      "description": "Prueba de nuevos gráficos de Hugo e Irene: sprites de movimiento revisados y reemplazo de los recursos frontales y de espalda de los protagonistas. Incluye cambios en los recursos gráficos usados en selección de género; falta validación visual en emulador.",
+      "url": "./patches/Zenit_v0.12.bps",
+      "sha256": "ce65db46236eb58022871ef515422a502be83a289aa83aa912ee966430127d3f"
+    },
+    {
+      "id": "v0.13",
+      "name": "Zenit v0.13 · Sprites de Hugo e Irene reparados",
+      "description": "Corrección del formato de texturas de los protagonistas: movimiento 32×32, gráficos frontales y elección de género con Oak (poses y siluetas). Se eliminan los cambios experimentales defectuosos de v0.12. Parche comprobado técnicamente; pendiente de prueba visual en Zenit Play.",
+      "url": "./patches/Zenit_v0.13.bps",
+      "sha256": "c91fcba6e7a5595021bd7fd63d33232a7a7064d6517ba45a348da0380aa8b977"
+    },
+    {
+      "id": "v0.14",
+      "name": "Zenit v0.14 · Personajes sin corrupción (prueba)",
+      "description": "Compilación experimental reconstruida desde v0.10. Conserva los gráficos, montaje y animaciones originales de HGSS, con cambios seguros de paleta y píxeles para el pelo y vestimenta de Hugo e Irene en movimiento, selección de género y combate. Parche verificado; falta prueba visual de Oak, nombre e inicio en Zenit Play.",
+      "url": "./patches/Zenit_v0.14.bps",
+      "sha256": "3d239de36e95bf29c26ef8b4d8686c684692f54f0324402b581aa54226365942"
+    }
+  ]
+}
