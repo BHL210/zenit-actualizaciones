@@ -49,6 +49,13 @@
       "description": "Versión experimental: incorpora sprites de movimiento de Hugo e Irene (24 fotogramas cada uno); los sprites de combate y de selección aún son los originales. Pendiente de prueba en Zenit Play.",
       "url": "./patches/Zenit_v0.11.bps",
       "sha256": "e1e0dc1d99143c6c2c22b86576b447bfc903945d16f937473baa8753bf8840be"
+    },
+    {
+      "id": "v0.12",
+      "name": "Zenit v0.12 · Hugo e Irene (corrección de sprites)",
+      "description": "Prueba de nuevos gráficos de Hugo e Irene: sprites de movimiento revisados y reemplazo de los recursos frontales y de espalda de los protagonistas. Incluye cambios en los recursos gráficos usados en selección de género; falta validación visual en emulador.",
+      "url": "./patches/Zenit_v0.12.bps",
+      "sha256": "ce65db46236eb58022871ef515422a502be83a289aa83aa912ee966430127d3f"
     }
   ]
 }
