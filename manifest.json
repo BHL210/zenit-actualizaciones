@@ -35,6 +35,13 @@
       "description": "START blanco y presentación corta de Oak: elimina el menú de tres opciones informativas y continúa con elección de género, confirmación y nombre. Probado en melonDS.",
       "url": "./patches/Zenit_v0.09.bps",
       "sha256": "511e93f7a619b103345f03a059cbb66fc347366a8ff68eb28425cd535efe5a01"
+    },
+    {
+      "id": "v0.10",
+      "name": "Zenit v0.10 · Nueva introducción de Oak",
+      "description": "Diálogos de Oak para el Proyecto Zenit: bienvenida, colaboración, elección de género, nombre y despedida. Inicio de partida verificado con melonDS.",
+      "url": "./patches/Zenit_v0.10.bps",
+      "sha256": "aff683e4bc4fcc79e62183b99011154d6cdab810cbe879ce8def9a894257f12b"
     }
   ]
 }
