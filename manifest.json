@@ -21,6 +21,13 @@
       "description": "Nuevo paisaje original, logotipo centrado y colores corregidos.",
       "url": "./patches/Zenit_v0.07.bps",
       "sha256": "96caf6e7dc8c9d71c00323a6cec67dac42293b5bdd4ba6141ff4ff7f83567ad9"
+    },
+    {
+      "id": "v0.08",
+      "name": "Zenit v0.08 · EXPERIMENTAL",
+      "description": "Prueba de START blanco y salto a selector de género de Oak; la transición completa aún no se ha verificado en la estación de emulación. Se puede volver a v0.07.",
+      "url": "./patches/Zenit_v0.08.bps",
+      "sha256": "3654cb9d24a3d16f67ecba2472deda20c33d2a8de86b3f70061282ff03e9a96a"
     }
   ]
 }
