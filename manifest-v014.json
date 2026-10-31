@@ -70,6 +70,13 @@
       "description": "Compilación experimental reconstruida desde v0.10. Conserva los gráficos, montaje y animaciones originales de HGSS, con cambios seguros de paleta y píxeles para el pelo y vestimenta de Hugo e Irene en movimiento, selección de género y combate. Parche verificado; falta prueba visual de Oak, nombre e inicio en Zenit Play.",
       "url": "./patches/Zenit_v0.14.bps",
       "sha256": "3d239de36e95bf29c26ef8b4d8686c684692f54f0324402b581aa54226365942"
+    },
+    {
+      "id": "v0.15",
+      "name": "Zenit v0.15 · Hugo e Irene (reemplazo experimental)",
+      "description": "Prueba de sustitución real de gráficos de Hugo e Irene en movimiento, selección de género, siluetas y recursos frontales y de espalda. No se limita a recolores. Parche BPS verificado contra ROM original; no validado aún en emulador. Pueden persistir errores, especialmente en pantalla de nombre o animaciones.",
+      "url": "./patches/Zenit_v0.15.bps",
+      "sha256": "652d67237c9a2d384e58be601cdc8e0e40a3db9e822f140f5dd6b9948b13b4d5"
     }
   ]
 }
