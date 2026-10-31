@@ -56,6 +56,13 @@
       "description": "Prueba de nuevos gráficos de Hugo e Irene: sprites de movimiento revisados y reemplazo de los recursos frontales y de espalda de los protagonistas. Incluye cambios en los recursos gráficos usados en selección de género; falta validación visual en emulador.",
       "url": "./patches/Zenit_v0.12.bps",
       "sha256": "ce65db46236eb58022871ef515422a502be83a289aa83aa912ee966430127d3f"
+    },
+    {
+      "id": "v0.13",
+      "name": "Zenit v0.13 · Sprites de Hugo e Irene reparados",
+      "description": "Corrección del formato de texturas de los protagonistas: movimiento 32×32, gráficos frontales y elección de género con Oak (poses y siluetas). Se eliminan los cambios experimentales defectuosos de v0.12. Parche comprobado técnicamente; pendiente de prueba visual en Zenit Play.",
+      "url": "./patches/Zenit_v0.13.bps",
+      "sha256": "c91fcba6e7a5595021bd7fd63d33232a7a7064d6517ba45a348da0380aa8b977"
     }
   ]
 }
