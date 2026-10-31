@@ -42,6 +42,13 @@
       "description": "Diálogos de Oak para el Proyecto Zenit: bienvenida, colaboración, elección de género, nombre y despedida. Inicio de partida verificado con melonDS.",
       "url": "./patches/Zenit_v0.10.bps",
       "sha256": "aff683e4bc4fcc79e62183b99011154d6cdab810cbe879ce8def9a894257f12b"
+    },
+    {
+      "id": "v0.11",
+      "name": "Zenit v0.11 · Sprites Hugo e Irene (prueba)",
+      "description": "Versión experimental: incorpora sprites de movimiento de Hugo e Irene (24 fotogramas cada uno); los sprites de combate y de selección aún son los originales. Pendiente de prueba en Zenit Play.",
+      "url": "./patches/Zenit_v0.11.bps",
+      "sha256": "e1e0dc1d99143c6c2c22b86576b447bfc903945d16f937473baa8753bf8840be"
     }
   ]
 }
