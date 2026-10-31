@@ -63,6 +63,13 @@
       "description": "Corrección del formato de texturas de los protagonistas: movimiento 32×32, gráficos frontales y elección de género con Oak (poses y siluetas). Se eliminan los cambios experimentales defectuosos de v0.12. Parche comprobado técnicamente; pendiente de prueba visual en Zenit Play.",
       "url": "./patches/Zenit_v0.13.bps",
       "sha256": "c91fcba6e7a5595021bd7fd63d33232a7a7064d6517ba45a348da0380aa8b977"
+    },
+    {
+      "id": "v0.14",
+      "name": "Zenit v0.14 · Personajes sin corrupción (prueba)",
+      "description": "Compilación experimental reconstruida desde v0.10. Conserva los gráficos, montaje y animaciones originales de HGSS, con cambios seguros de paleta y píxeles para el pelo y vestimenta de Hugo e Irene en movimiento, selección de género y combate. Parche verificado; falta prueba visual de Oak, nombre e inicio en Zenit Play.",
+      "url": "./patches/Zenit_v0.14.bps",
+      "sha256": "3d239de36e95bf29c26ef8b4d8686c684692f54f0324402b581aa54226365942"
     }
   ]
 }
