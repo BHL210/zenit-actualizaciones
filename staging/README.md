@@ -1,0 +1,1 @@
+Área temporal para preparar una versión de prueba de sprites. No contiene ROM ni archivos de partidas.
